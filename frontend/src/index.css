@@ -122,7 +122,7 @@ nav button {
 }
 
 /* auth forms */
-form.signup, form.login, form.forgotPassword {
+form.signup, form.login, form.forgotPassword, form.resetPassword {
   max-width: 400px;
   margin: 40px auto;
   padding: 20px;
